@@ -3,8 +3,7 @@
 Implementation of nonnegative matrix factorization: 
  - The code illustrates the effectiveness of modified multiplicative updates algorithm
 
-This jupyter notbook (mf.ipynb) introduces the problem and then walks you through the code in detail.
-The entire optimization routine (including gradient calculation) is implemented from scratch.
+This jupyter notbook (mf.ipynb) introduces the problem and then walks you through the code in detail. The entire optimization routine (including gradient calculation) is implemented from scratch.
 
 Some helpful resources to understand nonnegative matrix factorization:
 - http://papers.neurips.cc/paper/1861-algorithms-for-non-negative-matrix-factorization.pdf
